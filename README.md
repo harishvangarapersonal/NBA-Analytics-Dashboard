@@ -19,8 +19,7 @@ The objective of this project is to transform raw NBA datasets into meaningful v
 ## 📊 Dashboard Preview
 
 ```markdown
-<img width="1137" height="624" alt="Screenshot 2026-05-26 183616" src="https://github.com/user-attachments/assets/b563d86c-0fe9-47a5-a8ce-a67e5627f3f0" />
-```
+Screenshot 2026-05-26 183616.png
 
 ---
 
